@@ -4,7 +4,7 @@
 // ================================================================
 
 // ── Config ──────────────────────────────────────────────────────
-const API_URL        = "http://localhost:5000/generate-plan";
+const API_URL        = https://smartprepai-fgmx.onrender.com;
 const FETCH_TIMEOUT  = 90000;  // 90 seconds — Claude can be slow on long plans
 
 // ── DOM references ───────────────────────────────────────────────
