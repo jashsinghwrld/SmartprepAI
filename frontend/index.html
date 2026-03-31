@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SmartPrepAI — Generate a personalised AI-powered day-by-day study plan from your syllabus." />
+  <!-- FIX: inline favicon prevents a 404 console error on every page load -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>" />
+  <title>SmartPrepAI — AI Study Planner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ============================================================ -->
+  <!-- HEADER                                                         -->
+  <!-- ============================================================ -->
+  <header>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      AI-Powered
+    </div>
+    <h1>SmartPrepAI</h1>
+    <p class="tagline">Enter your syllabus. Get a smart, personalised study plan.</p>
+  </header>
+
+  <!-- ============================================================ -->
+  <!-- INPUT FORM                                                     -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <p class="card-label">Your Study Details</p>
+
+    <form id="form" novalidate>
+
+      <!-- Syllabus -->
+      <div class="row">
+        <div class="field full">
+          <label for="syllabus">
+            Syllabus
+            <small>— topics, chapters, or any subject list</small>
+          </label>
+          <!-- FIX: maxlength prevents tab-freezing pastes; 5000 chars is generous -->
+          <textarea
+            id="syllabus"
+            maxlength="5000"
+            placeholder="e.g.  Algebra, Calculus, Trigonometry, Statistics, Probability
+
+Paste as much or as little as you like — even a full chapter list."
+          ></textarea>
+        </div>
+      </div>
+
+      <!-- Days + Hours per day (side by side on desktop) -->
+      <div class="row">
+        <div class="field">
+          <label for="days">Days available</label>
+          <input
+            type="number"
+            id="days"
+            placeholder="e.g. 14"
+            min="1"
+            max="365"
+          />
+        </div>
+
+        <div class="field">
+          <label for="hours">Hours per day</label>
+          <input
+            type="number"
+            id="hours"
+            placeholder="e.g. 3"
+            min="0.5"
+            max="24"
+            step="0.5"
+          />
+        </div>
+      </div>
+
+      <!-- Difficulty -->
+      <div class="row">
+        <div class="field full">
+          <label for="difficulty">Difficulty level</label>
+          <select id="difficulty">
+            <option value="easy">Easy — relaxed pace, more review time</option>
+            <option value="medium" selected>Medium — balanced mix of topics and review</option>
+            <option value="hard">Hard — dense sessions, maximum topic coverage</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Submit -->
+      <div class="row">
+        <div class="field full">
+          <button type="submit" id="submit-btn" class="btn">
+            <span class="btn-label">Generate My Study Plan</span>
+            <span class="btn-arrow">→</span>
+            <div class="btn-spinner"></div>
+          </button>
+        </div>
+      </div>
+
+    </form>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- ERROR                                                          -->
+  <!-- ============================================================ -->
+  <div id="error-box" role="alert" aria-live="assertive">
+    <span id="error-text"></span>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- LOADING STATE                                                  -->
+  <!-- ============================================================ -->
+  <div id="loading" aria-live="polite">
+    <div class="loading-ring"></div>
+    <p>
+      Building your personalised plan&nbsp;
+      <span class="loading-dots">
+        <span>·</span><span>·</span><span>·</span>
+      </span>
+    </p>
+    <p class="loading-note">Claude is reading your syllabus — usually 10–30 seconds</p>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PLAN OUTPUT                                                    -->
+  <!-- ============================================================ -->
+  <section id="plan-out" aria-label="Generated study plan">
+
+    <div class="plan-header">
+      <h2>Your Study Plan</h2>
+    </div>
+
+    <!-- Summary stats (total days, hours, breakdown by type) -->
+    <div class="pills" id="pills"></div>
+
+    <!-- Day cards injected here by script.js -->
+    <div id="plan-cards"></div>
+
+  </section>
+
+</div><!-- /.wrap -->
+
+<!-- Load script AFTER body so all elements already exist in the DOM -->
+<script src="script.js"></script>
+</body>
+</html>
