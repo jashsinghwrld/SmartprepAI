@@ -24,12 +24,6 @@ SmartPrepAI was engineered to solve **Academic Information Overload.** In a worl
 
 ---
 
-## ✨ Feature Showcase
-
-<p align="center">
-  <img src="assets/features.png" alt="Features Mockup" width="800">
-</p>
-
 ### 🧬 Hierarchical Curriculum Intelligence
 *   **Structured Analysis**: Filters intelligence by Class (9-12), Subject, Chapter, and Topic.
 *   **Statistical Precision**: Pure Python analysis of PYQ frequency, chapter importance, and difficulty distributions.
