@@ -1,10 +1,10 @@
-# SmartPrepAI: Premium CBSE Intelligence Pipeline 🐉
+# Examforge: Premium CBSE Intelligence Pipeline ⚔️
 
-SmartPrepAI is a high-performance, data-driven intelligence platform designed to revolutionize how students prepare for CBSE Class 9-12 examinations. By combining a robust FastAPI backend with a premium React/Vite frontend, it provides deep pedagogical insights, chapter-wise topic prioritization, and adaptive study strategies based on thousands of Previous Year Questions (PYQs).
+Examforge is a high-performance, data-driven intelligence platform designed to revolutionize how students prepare for CBSE Class 9-12 examinations. By combining a robust FastAPI backend with a premium React/Vite frontend, it provides deep pedagogical insights, chapter-wise topic prioritization, and adaptive study strategies based on thousands of Previous Year Questions (PYQs).
 
 ## 🚀 The Vision
 
-I built SmartPrepAI to solve a simple problem: **Academic Information Overload.** Students often have all the resources but lack the "signal" within the noise. This project was developed to move beyond generic study guides and provide a dynamic, AI-powered bridge that identifies exactly what a student needs to focus on for their specific Class, Subject, and Chapter.
+I built Examforge to solve a simple problem: **Academic Information Overload.** Students often have all the resources but lack the "signal" within the noise. This project was developed to move beyond generic study guides and provide a dynamic, AI-powered bridge that identifies exactly what a student needs to focus on for their specific Class, Subject, and Chapter.
 
 ## ✨ Key Features
 
@@ -31,8 +31,8 @@ I built SmartPrepAI to solve a simple problem: **Academic Information Overload.*
 ### Configuration
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jashsinghwrld/SmartprepAI.git
-   cd SmartprepAI
+   git clone https://github.com/jashsinghwrld/Examforge.git
+   cd Examforge
    ```
 2. Set up your environment variables:
    Create a `.env` file in the `backend/` directory:
@@ -79,4 +79,4 @@ This project was developed in close collaboration with **Antigravity**, an advan
 ---
 
 *“Success is the sum of small efforts, repeated day in and day out.”*
-Built with passion for the modern student. 🚀
+Built with passion for the modern student. ⚔️

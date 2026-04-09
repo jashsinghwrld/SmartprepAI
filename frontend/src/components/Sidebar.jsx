@@ -97,9 +97,9 @@ export default function Sidebar({ userClass, setUserClass, userSubject, setUserS
       <div className="flex items-center justify-between px-2 mt-2">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-red-600 to-black flex items-center justify-center shadow-[0_0_15px_rgba(220,38,38,0.4)]">
-            <span className="text-white font-bold text-sm leading-none">S</span>
+            <span className="text-white font-bold text-sm leading-none">E</span>
           </div>
-          <h1 className={`font-semibold tracking-wide text-lg ${isDark ? 'text-neutral-100' : 'text-neutral-800'}`}>SmartPrepAI</h1>
+          <h1 className={`font-semibold tracking-wide text-lg ${isDark ? 'text-neutral-100' : 'text-neutral-800'}`}>Examforge</h1>
         </div>
 
         {/* Light / Dark Toggle */}
