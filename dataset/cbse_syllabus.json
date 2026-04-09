@@ -1,0 +1,1689 @@
+[
+  {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapters": [
+      {
+        "name": "Number Systems",
+        "topics": [
+          "Rational Numbers",
+          "Irrational Numbers",
+          "Real Numbers and their Decimal Expansions",
+          "Operations on Real Numbers",
+          "Laws of Exponents"
+        ]
+      },
+      {
+        "name": "Polynomials",
+        "topics": [
+          "Polynomials in One Variable",
+          "Zeroes of a Polynomial",
+          "Remainder Theorem",
+          "Factorization of Polynomials",
+          "Algebraic Identities"
+        ]
+      },
+      {
+        "name": "Coordinate Geometry",
+        "topics": [
+          "Cartesian System",
+          "Plotting a Point in the Plane"
+        ]
+      },
+      {
+        "name": "Linear Equations in Two Variables",
+        "topics": [
+          "Linear Equations",
+          "Solution of a Linear Equation",
+          "Graph of a Linear Equation"
+        ]
+      },
+      {
+        "name": "Introduction to Euclid Geometry",
+        "topics": [
+          "Euclid Definitions, Axioms and Postulates",
+          "Equivalent Versions of Euclid Fifth Postulate"
+        ]
+      },
+      {
+        "name": "Lines and Angles",
+        "topics": [
+          "Basic Terms and Definitions",
+          "Intersecting Lines and Non-intersecting Lines",
+          "Pairs of Angles",
+          "Parallel Lines and a Transversal"
+        ]
+      },
+      {
+        "name": "Triangles",
+        "topics": [
+          "Congruence of Triangles",
+          "Criteria for Congruence",
+          "Some Properties of a Triangle",
+          "Inequalities in a Triangle"
+        ]
+      },
+      {
+        "name": "Quadrilaterals",
+        "topics": [
+          "Angle Sum Property",
+          "Types of Quadrilaterals",
+          "Properties of a Parallelogram",
+          "The Mid-point Theorem"
+        ]
+      },
+      {
+        "name": "Circles",
+        "topics": [
+          "Circles and Its Related Terms",
+          "Angle Subtended by a Chord",
+          "Perpendicular from the Centre",
+          "Cyclic Quadrilaterals"
+        ]
+      },
+      {
+        "name": "Heron Formula",
+        "topics": [
+          "Area of a Triangle",
+          "Application of Heron Formula in finding Areas of Quadrilaterals"
+        ]
+      },
+      {
+        "name": "Surface Areas and Volumes",
+        "topics": [
+          "Surface Area of a Cuboid and a Cube",
+          "Surface Area of a Right Circular Cylinder",
+          "Surface Area of a Right Circular Cone",
+          "Surface Area of a Sphere",
+          "Volumes"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "topics": [
+          "Collection of Data",
+          "Presentation of Data",
+          "Graphical Representation of Data",
+          "Measures of Central Tendency"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "subject": "Physics",
+    "chapters": [
+      {
+        "name": "Motion",
+        "topics": [
+          "Describing Motion",
+          "Measuring the Rate of Motion",
+          "Rate of Change of Velocity",
+          "Graphical Representation of Motion",
+          "Equations of Motion"
+        ]
+      },
+      {
+        "name": "Force and Laws of Motion",
+        "topics": [
+          "Balanced and Unbalanced Forces",
+          "First Law of Motion",
+          "Inertia and Mass",
+          "Second Law of Motion",
+          "Third Law of Motion",
+          "Conservation of Momentum"
+        ]
+      },
+      {
+        "name": "Gravitation",
+        "topics": [
+          "Gravitation",
+          "Universal Law of Gravitation",
+          "Free Fall",
+          "Mass and Weight",
+          "Thrust and Pressure",
+          "Archimedes Principle"
+        ]
+      },
+      {
+        "name": "Work and Energy",
+        "topics": [
+          "Work",
+          "Energy",
+          "Kinetic Energy",
+          "Potential Energy",
+          "Law of Conservation of Energy",
+          "Rate of Doing Work"
+        ]
+      },
+      {
+        "name": "Sound",
+        "topics": [
+          "Production of Sound",
+          "Propagation of Sound",
+          "Reflection of Sound",
+          "Echo",
+          "Structure of Human Ear"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "subject": "Chemistry",
+    "chapters": [
+      {
+        "name": "Matter in Our Surroundings",
+        "topics": [
+          "Physical Nature of Matter",
+          "States of Matter",
+          "Change of State",
+          "Evaporation"
+        ]
+      },
+      {
+        "name": "Is Matter Around Us Pure",
+        "topics": [
+          "Mixtures",
+          "Solutions",
+          "Separation of Mixtures",
+          "Physical and Chemical Changes"
+        ]
+      },
+      {
+        "name": "Atoms and Molecules",
+        "topics": [
+          "Laws of Chemical Combination",
+          "Atoms",
+          "Molecules",
+          "Chemical Formulae",
+          "Molecular Mass and Mole Concept"
+        ]
+      },
+      {
+        "name": "Structure of the Atom",
+        "topics": [
+          "Charged Particles in Matter",
+          "Structure of an Atom",
+          "Distribution of Electrons",
+          "Valency",
+          "Isotopes and Isobars"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "subject": "Biology",
+    "chapters": [
+      {
+        "name": "The Fundamental Unit of Life",
+        "topics": [
+          "What are Living Organisms Made Up Of",
+          "Structural Organisation of a Cell",
+          "Cell Organelles"
+        ]
+      },
+      {
+        "name": "Tissues",
+        "topics": [
+          "Plant Tissues",
+          "Animal Tissues",
+          "Epithelial Tissue",
+          "Connective Tissue",
+          "Muscular and Nervous Tissues"
+        ]
+      },
+      {
+        "name": "Improvement in Food Resources",
+        "topics": [
+          "Improvement in Crop Yields",
+          "Crop Variety Improvement",
+          "Crop Production Management",
+          "Animal Husbandry"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapters": [
+      {
+        "name": "Real Numbers",
+        "topics": [
+          "Fundamental Theorem of Arithmetic",
+          "Revisiting Irrational Numbers",
+          "Revisiting Rational Numbers and Their Decimal Expansions"
+        ]
+      },
+      {
+        "name": "Polynomials",
+        "topics": [
+          "Geometrical Meaning of the Zeroes",
+          "Relationship between Zeroes and Coefficients"
+        ]
+      },
+      {
+        "name": "Pair of Linear Equations in Two Variables",
+        "topics": [
+          "Graphical Method of Solution",
+          "Algebraic Methods of Solving (Substitution, Elimination)",
+          "Equations Reducible to Linear Form"
+        ]
+      },
+      {
+        "name": "Quadratic Equations",
+        "topics": [
+          "Solution of a Quadratic Equation by Factorisation",
+          "Solution by Completing the Square",
+          "Nature of Roots"
+        ]
+      },
+      {
+        "name": "Arithmetic Progressions",
+        "topics": [
+          "nth Term of an AP",
+          "Sum of First n Terms of an AP"
+        ]
+      },
+      {
+        "name": "Triangles",
+        "topics": [
+          "Similar Figures",
+          "Similarity of Triangles",
+          "Criteria for Similarity",
+          "Areas of Similar Triangles",
+          "Pythagoras Theorem"
+        ]
+      },
+      {
+        "name": "Coordinate Geometry",
+        "topics": [
+          "Distance Formula",
+          "Section Formula",
+          "Area of a Triangle"
+        ]
+      },
+      {
+        "name": "Introduction to Trigonometry",
+        "topics": [
+          "Trigonometric Ratios",
+          "Trigonometric Ratios of Some Specific Angles",
+          "Trigonometric Identities"
+        ]
+      },
+      {
+        "name": "Some Applications of Trigonometry",
+        "topics": [
+          "Heights and Distances"
+        ]
+      },
+      {
+        "name": "Circles",
+        "topics": [
+          "Tangent to a Circle",
+          "Number of Tangents from a Point"
+        ]
+      },
+      {
+        "name": "Areas Related to Circles",
+        "topics": [
+          "Perimeter and Area of a Circle",
+          "Areas of Sector and Segment",
+          "Areas of Combinations of Plane Figures"
+        ]
+      },
+      {
+        "name": "Surface Areas and Volumes",
+        "topics": [
+          "Surface Area of a Combination of Solids",
+          "Volume of a Combination of Solids",
+          "Conversion of Solid from One Shape to Another",
+          "Frustum of a Cone"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "topics": [
+          "Mean of Grouped Data",
+          "Mode of Grouped Data",
+          "Median of Grouped Data"
+        ]
+      },
+      {
+        "name": "Probability",
+        "topics": [
+          "Theoretical Probability"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "subject": "Physics",
+    "chapters": [
+      {
+        "name": "Light Reflection and Refraction",
+        "topics": [
+          "Reflection of Light",
+          "Spherical Mirrors",
+          "Refraction of Light",
+          "Refractive Index",
+          "Spherical Lenses",
+          "Power of a Lens"
+        ]
+      },
+      {
+        "name": "The Human Eye and the Colorful World",
+        "topics": [
+          "Human Eye",
+          "Defects of Vision",
+          "Refraction of Light Through a Prism",
+          "Dispersion of White Light",
+          "Atmospheric Refraction",
+          "Scattering of Light"
+        ]
+      },
+      {
+        "name": "Electricity",
+        "topics": [
+          "Electric Current and Circuit",
+          "Electric Potential",
+          "Ohm Law",
+          "Resistance and Resistivity",
+          "Resistors in Series and Parallel",
+          "Heating Effect of Electric Current"
+        ]
+      },
+      {
+        "name": "Magnetic Effects of Electric Current",
+        "topics": [
+          "Magnetic Field and Field Lines",
+          "Magnetic Field due to a Current-Carrying Conductor",
+          "Right-Hand Thumb Rule",
+          "Force on a Current-Carrying Conductor",
+          "Electric Motor",
+          "Electromagnetic Induction",
+          "Electric Generator"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "subject": "Chemistry",
+    "chapters": [
+      {
+        "name": "Chemical Reactions and Equations",
+        "topics": [
+          "Chemical Equations",
+          "Types of Chemical Reactions",
+          "Oxidation and Reduction",
+          "Effects of Oxidation in Everyday Life"
+        ]
+      },
+      {
+        "name": "Acids, Bases and Salts",
+        "topics": [
+          "Chemical Properties of Acids and Bases",
+          "Reactions with Metals",
+          "pH Scale",
+          "More about Salts",
+          "Preparation of Common Salts"
+        ]
+      },
+      {
+        "name": "Metals and Non-metals",
+        "topics": [
+          "Physical Properties",
+          "Chemical Properties of Metals",
+          "Reactivity Series",
+          "How do Metals and Non-metals React",
+          "Occurrence of Metals",
+          "Corrosion"
+        ]
+      },
+      {
+        "name": "Carbon and Its Compounds",
+        "topics": [
+          "Bonding in Carbon",
+          "Versatile Nature of Carbon",
+          "Chemical Properties of Carbon Compounds",
+          "Ethanol and Ethanoic Acid",
+          "Soaps and Detergents"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "subject": "Biology",
+    "chapters": [
+      {
+        "name": "Life Processes",
+        "topics": [
+          "Nutrition",
+          "Respiration",
+          "Transportation in Human Beings",
+          "Transportation in Plants",
+          "Excretion"
+        ]
+      },
+      {
+        "name": "Control and Coordination",
+        "topics": [
+          "Nervous System in Animals",
+          "Human Brain",
+          "Coordination in Plants",
+          "Hormones in Animals"
+        ]
+      },
+      {
+        "name": "How do Organisms Reproduce",
+        "topics": [
+          "Asexual Reproduction",
+          "Sexual Reproduction in Flowering Plants",
+          "Reproduction in Human Beings",
+          "Reproductive Health"
+        ]
+      },
+      {
+        "name": "Heredity",
+        "topics": [
+          "Accumulation of Variation",
+          "Heredity (Mendel Contributions)",
+          "Sex Determination"
+        ]
+      },
+      {
+        "name": "Our Environment",
+        "topics": [
+          "Ecosystem and Its Components",
+          "Food Chains and Webs",
+          "Ozone Layer Depletion",
+          "Managing the Garbage We Produce"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "subject": "Mathematics",
+    "chapters": [
+      {
+        "name": "Sets",
+        "topics": [
+          "Sets and their Representations",
+          "Empty Set",
+          "Finite and Infinite Sets",
+          "Equal Sets",
+          "Subsets",
+          "Power Set",
+          "Universal Set",
+          "Venn Diagrams",
+          "Operations on Sets"
+        ]
+      },
+      {
+        "name": "Relations and Functions",
+        "topics": [
+          "Cartesian Product of Sets",
+          "Relations",
+          "Functions",
+          "Types of Functions"
+        ]
+      },
+      {
+        "name": "Trigonometric Functions",
+        "topics": [
+          "Angles",
+          "Trigonometric Functions",
+          "Trigonometric Functions of Sum and Difference of Two Angles",
+          "Trigonometric Equations"
+        ]
+      },
+      {
+        "name": "Complex Numbers and Quadratic Equations",
+        "topics": [
+          "Complex Numbers",
+          "Algebra of Complex Numbers",
+          "Modulus and Conjugate",
+          "Argand Plane and Polar Representation"
+        ]
+      },
+      {
+        "name": "Linear Inequalities",
+        "topics": [
+          "Inequalities",
+          "Algebraic Solutions of Linear Inequalities",
+          "Graphical Solution of Linear Inequalities in Two Variables"
+        ]
+      },
+      {
+        "name": "Permutations and Combinations",
+        "topics": [
+          "Fundamental Principle of Counting",
+          "Permutations",
+          "Combinations"
+        ]
+      },
+      {
+        "name": "Binomial Theorem",
+        "topics": [
+          "Binomial Theorem for Positive Integral Indices",
+          "General and Middle Terms"
+        ]
+      },
+      {
+        "name": "Sequences and Series",
+        "topics": [
+          "Sequences",
+          "Series",
+          "Arithmetic Progression (A.P.)",
+          "Geometric Progression (G.P.)",
+          "Relationship Between A.M. and G.M."
+        ]
+      },
+      {
+        "name": "Straight Lines",
+        "topics": [
+          "Slope of a Line",
+          "Various Forms of the Equation of a Line",
+          "General Equation of a Line",
+          "Distance of a Point From a Line"
+        ]
+      },
+      {
+        "name": "Conic Sections",
+        "topics": [
+          "Sections of a Cone",
+          "Circle",
+          "Parabola",
+          "Ellipse",
+          "Hyperbola"
+        ]
+      },
+      {
+        "name": "Introduction to Three Dimensional Geometry",
+        "topics": [
+          "Coordinate Axes and Coordinate Planes",
+          "Coordinates of a Point",
+          "Distance between Two Points"
+        ]
+      },
+      {
+        "name": "Limits and Derivatives",
+        "topics": [
+          "Limits",
+          "Derivatives"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "topics": [
+          "Measures of Dispersion",
+          "Range",
+          "Mean Deviation",
+          "Variance and Standard Deviation"
+        ]
+      },
+      {
+        "name": "Probability",
+        "topics": [
+          "Random Experiments",
+          "Event",
+          "Axiomatic Approach to Probability"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "subject": "Physics",
+    "chapters": [
+      {
+        "name": "Units and Measurements",
+        "topics": [
+          "The International System of Units",
+          "Measurement of Length, Mass and Time",
+          "Accuracy, Precision and Errors",
+          "Significant Figures",
+          "Dimensions of Physical Quantities"
+        ]
+      },
+      {
+        "name": "Motion in a Straight Line",
+        "topics": [
+          "Position, Path Length and Displacement",
+          "Average Velocity and Average Speed",
+          "Instantaneous Velocity and Speed",
+          "Acceleration",
+          "Kinematic Equations for Uniformly Accelerated Motion"
+        ]
+      },
+      {
+        "name": "Motion in a Plane",
+        "topics": [
+          "Scalars and Vectors",
+          "Multiplication of Vectors",
+          "Addition and Subtraction of Vectors",
+          "Resolution of Vectors",
+          "Projectile Motion",
+          "Uniform Circular Motion"
+        ]
+      },
+      {
+        "name": "Laws of Motion",
+        "topics": [
+          "First Law of Motion",
+          "Second Law of Motion",
+          "Third Law of Motion",
+          "Conservation of Momentum",
+          "Friction",
+          "Circular Motion"
+        ]
+      },
+      {
+        "name": "Work, Energy and Power",
+        "topics": [
+          "Work",
+          "Kinetic Energy",
+          "Work-Energy Theorem",
+          "Potential Energy",
+          "Conservation of Mechanical Energy",
+          "Collisions"
+        ]
+      },
+      {
+        "name": "System of Particles and Rotational Motion",
+        "topics": [
+          "Centre of Mass",
+          "Motion of Centre of Mass",
+          "Vector Product of Two Vectors",
+          "Angular Velocity and its Relation with Linear Velocity",
+          "Torque and Angular Momentum",
+          "Moment of Inertia"
+        ]
+      },
+      {
+        "name": "Gravitation",
+        "topics": [
+          "Kepler Laws",
+          "Universal Law of Gravitation",
+          "Acceleration due to Gravity",
+          "Gravitational Potential Energy",
+          "Escape Speed",
+          "Earth Satellites"
+        ]
+      },
+      {
+        "name": "Mechanical Properties of Solids",
+        "topics": [
+          "Elastic Behaviour of Solids",
+          "Stress and Strain",
+          "Hooke Law",
+          "Stress-Strain Curve",
+          "Elastic Moduli"
+        ]
+      },
+      {
+        "name": "Mechanical Properties of Fluids",
+        "topics": [
+          "Pressure",
+          "Streamline Flow",
+          "Bernoulli Principle",
+          "Viscosity",
+          "Surface Tension"
+        ]
+      },
+      {
+        "name": "Thermal Properties of Matter",
+        "topics": [
+          "Temperature and Heat",
+          "Measurement of Temperature",
+          "Ideal-Gas Equation",
+          "Thermal Expansion",
+          "Specific Heat Capacity",
+          "Calorimetry"
+        ]
+      },
+      {
+        "name": "Thermodynamics",
+        "topics": [
+          "Thermal Equilibrium",
+          "Zeroth Law of Thermodynamics",
+          "Heat, Internal Energy and Work",
+          "First Law of Thermodynamics",
+          "Specific Heat Capacity",
+          "Thermodynamic Processes",
+          "Second Law of Thermodynamics"
+        ]
+      },
+      {
+        "name": "Kinetic Theory",
+        "topics": [
+          "Molecular Nature of Matter",
+          "Behaviour of Gases",
+          "Kinetic Theory of an Ideal Gas",
+          "Law of Equipartition of Energy"
+        ]
+      },
+      {
+        "name": "Oscillations",
+        "topics": [
+          "Periodic and Oscillatory Motions",
+          "Simple Harmonic Motion",
+          "Energy in SHM",
+          "Oscillations due to a Spring",
+          "The Pendulum",
+          "Damped and Forced Oscillations"
+        ]
+      },
+      {
+        "name": "Waves",
+        "topics": [
+          "Transverse and Longitudinal Waves",
+          "Displacement Relation",
+          "Speed of a Travelling Wave",
+          "Principle of Superposition",
+          "Reflection of Waves",
+          "Beats",
+          "Doppler Effect"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "subject": "Chemistry",
+    "chapters": [
+      {
+        "name": "Some Basic Concepts of Chemistry",
+        "topics": [
+          "Importance of Chemistry",
+          "Nature of Matter",
+          "Properties of Matter and their Measurement",
+          "Uncertainty in Measurement",
+          "Laws of Chemical Combinations",
+          "Daltons Atomic Theory",
+          "Atomic and Molecular Masses",
+          "Mole Concept and Molar Masses"
+        ]
+      },
+      {
+        "name": "Structure of Atom",
+        "topics": [
+          "Sub-atomic Particles",
+          "Atomic Models",
+          "Developments Leading to the Bohr Model of Atom",
+          "Bohr Model for Hydrogen Atom",
+          "Quantum Mechanical Model of Atom"
+        ]
+      },
+      {
+        "name": "Classification of Elements and Periodicity",
+        "topics": [
+          "Genesis of Periodic Classification",
+          "Modern Periodic Law",
+          "Nomenclature of Elements with Atomic Number > 100",
+          "Electronic Configurations",
+          "Periodic Trends in Properties"
+        ]
+      },
+      {
+        "name": "Chemical Bonding and Molecular Structure",
+        "topics": [
+          "Kossel-Lewis Approach to Chemical Bonding",
+          "Ionic or Electrovalent Bond",
+          "Bond Parameters",
+          "VSEPR Theory",
+          "Valence Bond Theory",
+          "Hybridisation",
+          "Molecular Orbital Theory"
+        ]
+      },
+      {
+        "name": "Thermodynamics",
+        "topics": [
+          "Thermodynamic Terms",
+          "Applications",
+          "Measurement of dU and dH",
+          "Enthalpy Change",
+          "Spontaneity",
+          "Gibbs Energy Change"
+        ]
+      },
+      {
+        "name": "Equilibrium",
+        "topics": [
+          "Equilibrium in Physical Processes",
+          "Equilibrium in Chemical Processes",
+          "Law of Chemical Equilibrium",
+          "Homogeneous Equilibria",
+          "Heterogeneous Equilibria",
+          "Applications of Equilibrium Constants",
+          "Acids, Bases and Salts",
+          "Ionization of Acids and Bases"
+        ]
+      },
+      {
+        "name": "Redox Reactions",
+        "topics": [
+          "Classical Idea of Redox Reactions",
+          "Redox Reactions in Terms of Electron Transfer",
+          "Oxidation Number",
+          "Redox Reactions and Electrode Processes"
+        ]
+      },
+      {
+        "name": "Organic Chemistry - Some Basic Principles and Techniques",
+        "topics": [
+          "Tetravalence of Carbon",
+          "Structural Representations of Organic Compounds",
+          "Classification of Organic Compounds",
+          "Nomenclature",
+          "Isomerism",
+          "Fundamental Concepts in Organic Reaction Mechanism",
+          "Methods of Purification",
+          "Qualitative and Quantitative Analysis"
+        ]
+      },
+      {
+        "name": "Hydrocarbons",
+        "topics": [
+          "Classification",
+          "Alkanes",
+          "Alkenes",
+          "Alkynes",
+          "Aromatic Hydrocarbon"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "subject": "Biology",
+    "chapters": [
+      {
+        "name": "The Living World",
+        "topics": [
+          "What is Living?",
+          "Diversity in the Living World",
+          "Taxonomic Categories",
+          "Taxonomical Aids"
+        ]
+      },
+      {
+        "name": "Biological Classification",
+        "topics": [
+          "Kingdom Monera",
+          "Kingdom Protista",
+          "Kingdom Fungi",
+          "Kingdom Plantae",
+          "Kingdom Animalia",
+          "Viruses, Viroids, Prions and Lichens"
+        ]
+      },
+      {
+        "name": "Plant Kingdom",
+        "topics": [
+          "Algae",
+          "Bryophytes",
+          "Pteridophytes",
+          "Gymnosperms",
+          "Angiosperms",
+          "Plant Life Cycles"
+        ]
+      },
+      {
+        "name": "Animal Kingdom",
+        "topics": [
+          "Basis of Classification",
+          "Classification of Animals"
+        ]
+      },
+      {
+        "name": "Morphology of Flowering Plants",
+        "topics": [
+          "The Root",
+          "The Stem",
+          "The Leaf",
+          "The Inflorescence",
+          "The Flower",
+          "The Fruit",
+          "The Seed"
+        ]
+      },
+      {
+        "name": "Anatomy of Flowering Plants",
+        "topics": [
+          "The Tissues",
+          "The Tissue System",
+          "Anatomy of Dicotyledonous and Monocotyledonous Plants",
+          "Secondary Growth"
+        ]
+      },
+      {
+        "name": "Structural Organisation in Animals",
+        "topics": [
+          "Animal Tissues",
+          "Organ and Organ System",
+          "Earthworm",
+          "Cockroach",
+          "Frogs"
+        ]
+      },
+      {
+        "name": "Cell: The Unit of Life",
+        "topics": [
+          "What is a Cell?",
+          "Cell Theory",
+          "An Overview of Cell",
+          "Prokaryotic Cells",
+          "Eukaryotic Cells"
+        ]
+      },
+      {
+        "name": "Biomolecules",
+        "topics": [
+          "How to Analyse Chemical Composition?",
+          "Primary and Secondary Metabolites",
+          "Biomacromolecules",
+          "Proteins",
+          "Polysaccharides",
+          "Nucleic Acids",
+          "Structure of Proteins",
+          "Nature of Bond Linking Monomers",
+          "Dynamic State of Body Constituents",
+          "Enzymes"
+        ]
+      },
+      {
+        "name": "Cell Cycle and Cell Division",
+        "topics": [
+          "Cell Cycle",
+          "M Phase",
+          "Significance of Mitosis",
+          "Meiosis",
+          "Significance of Meiosis"
+        ]
+      },
+      {
+        "name": "Photosynthesis in Higher Plants",
+        "topics": [
+          "Early Experiments",
+          "Where does Photosynthesis take place?",
+          "How many Pigments are involved?",
+          "What is Light Reaction?",
+          "The Electron Transport",
+          "Where are the ATP and NADPH Used?",
+          "The C4 Pathway",
+          "Photorespiration"
+        ]
+      },
+      {
+        "name": "Respiration in Plants",
+        "topics": [
+          "Do Plants Breathe?",
+          "Glycolysis",
+          "Fermentation",
+          "Aerobic Respiration",
+          "The Respiratory Balance Sheet",
+          "Amphibolic Pathway"
+        ]
+      },
+      {
+        "name": "Plant Growth and Development",
+        "topics": [
+          "Growth",
+          "Differentiation, Dedifferentiation and Redifferentiation",
+          "Development",
+          "Plant Growth Regulators",
+          "Photoperiodism",
+          "Vernalisation"
+        ]
+      },
+      {
+        "name": "Breathing and Exchange of Gases",
+        "topics": [
+          "Respiratory Organs",
+          "Mechanism of Breathing",
+          "Exchange of Gases",
+          "Transport of Gases",
+          "Regulation of Respiration",
+          "Disorders of Respiratory System"
+        ]
+      },
+      {
+        "name": "Body Fluids and Circulation",
+        "topics": [
+          "Blood",
+          "Lymph",
+          "Circulatory Pathways",
+          "Double Circulation",
+          "Regulation of Cardiac Activity",
+          "Disorders of Circulatory System"
+        ]
+      },
+      {
+        "name": "Excretory Products and their Elimination",
+        "topics": [
+          "Human Excretory System",
+          "Urine Formation",
+          "Function of the Tubules",
+          "Mechanism of Concentration of the Filtrate",
+          "Regulation of Kidney Function",
+          "Micturition"
+        ]
+      },
+      {
+        "name": "Locomotion and Movement",
+        "topics": [
+          "Types of Movement",
+          "Muscle",
+          "Skeletal System",
+          "Joints",
+          "Disorders of Muscular and Skeletal System"
+        ]
+      },
+      {
+        "name": "Neural Control and Coordination",
+        "topics": [
+          "Neural System",
+          "Human Neural System",
+          "Neuron as Structural and Functional Unit",
+          "Central Neural System",
+          "Reflex Action and Reflex Arc",
+          "Sensory Reception and Processing"
+        ]
+      },
+      {
+        "name": "Chemical Coordination and Integration",
+        "topics": [
+          "Endocrine Glands and Hormones",
+          "Human Endocrine System",
+          "Hormones of Heart, Kidney and Gastrointestinal Tract",
+          "Mechanism of Hormone Action"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "subject": "Mathematics",
+    "chapters": [
+      {
+        "name": "Relations and Functions",
+        "topics": [
+          "Types of Relations",
+          "Types of Functions",
+          "Composition of Functions",
+          "Invertible Function",
+          "Binary Operations"
+        ]
+      },
+      {
+        "name": "Inverse Trigonometric Functions",
+        "topics": [
+          "Basic Concepts",
+          "Properties of Inverse Trigonometric Functions"
+        ]
+      },
+      {
+        "name": "Matrices",
+        "topics": [
+          "Matrix",
+          "Types of Matrices",
+          "Operations on Matrices",
+          "Transpose of a Matrix",
+          "Symmetric and Skew Symmetric Matrices",
+          "Invertible Matrices"
+        ]
+      },
+      {
+        "name": "Determinants",
+        "topics": [
+          "Determinant",
+          "Properties of Determinants",
+          "Area of a Triangle",
+          "Minors and Cofactors",
+          "Adjoint and Inverse of a Matrix",
+          "Applications of Determinants and Matrices"
+        ]
+      },
+      {
+        "name": "Continuity and Differentiability",
+        "topics": [
+          "Continuity",
+          "Differentiability",
+          "Exponential and Logarithmic Functions",
+          "Logarithmic Differentiation",
+          "Derivatives of Functions in Parametric Forms",
+          "Second Order Derivative"
+        ]
+      },
+      {
+        "name": "Applications of Derivatives",
+        "topics": [
+          "Rate of Change of Quantities",
+          "Increasing and Decreasing Functions",
+          "Tangents and Normals",
+          "Approximations",
+          "Maxima and Minima"
+        ]
+      },
+      {
+        "name": "Integrals",
+        "topics": [
+          "Integration as an Inverse Process of Differentiation",
+          "Methods of Integration",
+          "Integrals of Some Particular Functions",
+          "Integration by Partial Fractions",
+          "Integration by Parts",
+          "Definite Integral"
+        ]
+      },
+      {
+        "name": "Applications of the Integrals",
+        "topics": [
+          "Area under Simple Curves",
+          "Area between Two Curves"
+        ]
+      },
+      {
+        "name": "Differential Equations",
+        "topics": [
+          "Basic Concepts",
+          "General and Particular Solutions",
+          "Formation of a Differential Equation",
+          "Methods of Solving First Order, First Degree Differential Equations"
+        ]
+      },
+      {
+        "name": "Vector Algebra",
+        "topics": [
+          "Some Basic Concepts",
+          "Types of Vectors",
+          "Addition of Vectors",
+          "Multiplication of a Vector by a Scalar",
+          "Product of Two Vectors"
+        ]
+      },
+      {
+        "name": "Three Dimensional Geometry",
+        "topics": [
+          "Direction Cosines and Direction Ratios",
+          "Equation of a Line",
+          "Angle between Two Lines",
+          "Shortest Distance between Two Lines",
+          "Plane",
+          "Coplanarity of Two Lines",
+          "Angle between Two Planes"
+        ]
+      },
+      {
+        "name": "Linear Programming",
+        "topics": [
+          "Linear Programming Problem",
+          "Mathematical Formulation",
+          "Graphical Method of Solving",
+          "Different Types of LP Problems"
+        ]
+      },
+      {
+        "name": "Probability",
+        "topics": [
+          "Conditional Probability",
+          "Multiplication Theorem on Probability",
+          "Independent Events",
+          "Bayes Theorem",
+          "Random Variable and its Probability Distribution",
+          "Bernoulli Trials and Binomial Distribution"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "subject": "Physics",
+    "chapters": [
+      {
+        "name": "Electric Charges and Fields",
+        "topics": [
+          "Electric Charge",
+          "Conductors and Insulators",
+          "Coulombs Law",
+          "Forces between Multiple Charges",
+          "Electric Field",
+          "Electric Field Lines",
+          "Electric Flux",
+          "Electric Dipole",
+          "Gausss Law"
+        ]
+      },
+      {
+        "name": "Electrostatic Potential and Capacitance",
+        "topics": [
+          "Electrostatic Potential",
+          "Potential due to a Point Charge",
+          "Equipotential Surfaces",
+          "Potential Energy of a System of Charges",
+          "Electrostatics of Conductors",
+          "Dielectrics and Polarisation",
+          "Capacitors and Capacitance"
+        ]
+      },
+      {
+        "name": "Current Electricity",
+        "topics": [
+          "Electric Current",
+          "Electric Currents in Conductors",
+          "Ohm Law",
+          "Drift of Electrons and the Origin of Resistivity",
+          "Limitations of Ohm Law",
+          "Temperature Dependence of Resistivity",
+          "Electrical Energy, Power",
+          "Cells, emf, Internal Resistance",
+          "Cells in Series and in Parallel",
+          "Kirchhoffs Rules",
+          "Wheatstone Bridge"
+        ]
+      },
+      {
+        "name": "Moving Charges and Magnetism",
+        "topics": [
+          "Magnetic Force",
+          "Motion in a Magnetic Field",
+          "Magnetic Field due to a Current Element",
+          "Magnetic Field on the Axis of a Circular Current Loop",
+          "Amperes Circuital Law",
+          "The Solenoid and the Toroid",
+          "Force between Two Parallel Currents",
+          "Torque on Current Loop"
+        ]
+      },
+      {
+        "name": "Magnetism and Matter",
+        "topics": [
+          "The Bar Magnet",
+          "Magnetism and Gauss Law",
+          "The Earths Magnetism",
+          "Magnetisation and Magnetic Intensity",
+          "Magnetic Properties of Materials"
+        ]
+      },
+      {
+        "name": "Electromagnetic Induction",
+        "topics": [
+          "The Experiments of Faraday and Henry",
+          "Magnetic Flux",
+          "Faradays Law of Induction",
+          "Lenzs Law",
+          "Motional Electromotive Force",
+          "Energy Consideration",
+          "Eddy Currents",
+          "Inductance",
+          "AC Generator"
+        ]
+      },
+      {
+        "name": "Alternating Current",
+        "topics": [
+          "AC Voltage Applied to a Resistor",
+          "Representation of AC Current and Voltage by Rotating Vectors",
+          "AC Voltage Applied to an Inductor",
+          "AC Voltage Applied to a Capacitor",
+          "AC Voltage Applied to a Series LCR Circuit",
+          "Power in AC Circuit",
+          "LC Oscillations",
+          "Transformers"
+        ]
+      },
+      {
+        "name": "Electromagnetic Waves",
+        "topics": [
+          "Displacement Current",
+          "Electromagnetic Waves",
+          "Electromagnetic Spectrum"
+        ]
+      },
+      {
+        "name": "Ray Optics and Optical Instruments",
+        "topics": [
+          "Reflection of Light by Spherical Mirrors",
+          "Refraction",
+          "Total Internal Reflection",
+          "Refraction at Spherical Surfaces and by Lenses",
+          "Refraction through a Prism",
+          "Dispersion by a Prism",
+          "Some Natural Phenomena due to Sunlight",
+          "Optical Instruments"
+        ]
+      },
+      {
+        "name": "Wave Optics",
+        "topics": [
+          "Huygens Principle",
+          "Refraction and Reflection of Plane Waves",
+          "Coherent and Incoherent Addition of Waves",
+          "Interference of Light Waves",
+          "Diffraction",
+          "Polarisation"
+        ]
+      },
+      {
+        "name": "Dual Nature of Radiation and Matter",
+        "topics": [
+          "Electron Emission",
+          "Photoelectric Effect",
+          "Experimental Study of Photoelectric Effect",
+          "Einstein Photoelectric Equation",
+          "Particle Nature of Light",
+          "Wave Nature of Matter"
+        ]
+      },
+      {
+        "name": "Atoms",
+        "topics": [
+          "Alpha-particle Scattering",
+          "Rutherford Nuclear Model of Atom",
+          "Atomic Spectra",
+          "Bohr Model of the Hydrogen Atom",
+          "The Line Spectra of the Hydrogen Atom",
+          "De Broglies Explanation of Bohrs Second Postulate"
+        ]
+      },
+      {
+        "name": "Nuclei",
+        "topics": [
+          "Atomic Masses and Composition of Nucleus",
+          "Size of the Nucleus",
+          "Mass-Energy and Nuclear Binding Energy",
+          "Nuclear Force",
+          "Radioactivity",
+          "Nuclear Energy"
+        ]
+      },
+      {
+        "name": "Semiconductor Electronics",
+        "topics": [
+          "Classification of Metals, Conductors and Semiconductors",
+          "Intrinsic Semiconductor",
+          "Extrinsic Semiconductor",
+          "p-n Junction",
+          "Semiconductor Diode",
+          "Application of Junction Diode as a Rectifier"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "subject": "Chemistry",
+    "chapters": [
+      {
+        "name": "Solutions",
+        "topics": [
+          "Types of Solutions",
+          "Expressing Concentration of Solutions",
+          "Solubility",
+          "Vapour Pressure of Liquid Solutions",
+          "Ideal and Non-ideal Solutions",
+          "Colligative Properties",
+          "Abnormal Molar Masses"
+        ]
+      },
+      {
+        "name": "Electrochemistry",
+        "topics": [
+          "Electrochemical Cells",
+          "Galvanic Cells",
+          "Nernst Equation",
+          "Conductance of Electrolytic Solutions",
+          "Electrolytic Cells and Electrolysis",
+          "Batteries",
+          "Fuel Cells",
+          "Corrosion"
+        ]
+      },
+      {
+        "name": "Chemical Kinetics",
+        "topics": [
+          "Rate of a Chemical Reaction",
+          "Factors Influencing Rate of a Reaction",
+          "Integrated Rate Equations",
+          "Pseudo First Order Reaction",
+          "Temperature Dependence of the Rate of a Reaction",
+          "Collision Theory of Chemical Reactions"
+        ]
+      },
+      {
+        "name": "The d- and f-Block Elements",
+        "topics": [
+          "Position in the Periodic Table",
+          "Electronic Configurations of the d-Block Elements",
+          "General Properties of the Transition Elements",
+          "Some Important Compounds of Transition Elements",
+          "The Lanthanoids",
+          "The Actinoids",
+          "Applications of d- and f-Block Elements"
+        ]
+      },
+      {
+        "name": "Coordination Compounds",
+        "topics": [
+          "Werner Theory",
+          "Definitions",
+          "Nomenclature",
+          "Isomerism",
+          "Bonding in Coordination Compounds",
+          "Bonding in Metal Carbonyls",
+          "Importance and Applications"
+        ]
+      },
+      {
+        "name": "Haloalkanes and Haloarenes",
+        "topics": [
+          "Classification",
+          "Nomenclature",
+          "Nature of C-X Bond",
+          "Methods of Preparation",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Polyhalogen Compounds"
+        ]
+      },
+      {
+        "name": "Alcohols, Phenols and Ethers",
+        "topics": [
+          "Classification",
+          "Nomenclature",
+          "Structures of Functional Groups",
+          "Alcohols and Phenols",
+          "Some Commercially Important Alcohols",
+          "Ethers"
+        ]
+      },
+      {
+        "name": "Aldehydes, Ketones and Carboxylic Acids",
+        "topics": [
+          "Nomenclature and Structure",
+          "Preparation of Aldehydes and Ketones",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Uses",
+          "Nomenclature and Structure of Carboxyl Group",
+          "Methods of Preparation of Carboxylic Acids",
+          "Physical and Chemical Properties of Carboxylic Acids"
+        ]
+      },
+      {
+        "name": "Amines",
+        "topics": [
+          "Structure of Amines",
+          "Classification",
+          "Nomenclature",
+          "Preparation of Amines",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Method of Preparation of Diazonium Salts",
+          "Physical and Chemical Properties of Diazonium Salts"
+        ]
+      },
+      {
+        "name": "Biomolecules",
+        "topics": [
+          "Carbohydrates",
+          "Proteins",
+          "Enzymes",
+          "Vitamins",
+          "Nucleic Acids",
+          "Hormones"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "subject": "Biology",
+    "chapters": [
+      {
+        "name": "Sexual Reproduction in Flowering Plants",
+        "topics": [
+          "Flower",
+          "Pre-fertilisation",
+          "Double Fertilisation",
+          "Post-fertilisation",
+          "Apomixis and Polyembryony"
+        ]
+      },
+      {
+        "name": "Human Reproduction",
+        "topics": [
+          "The Male Reproductive System",
+          "The Female Reproductive System",
+          "Gametogenesis",
+          "Menstrual Cycle",
+          "Fertilisation and Implantation",
+          "Pregnancy and Embryonic Development",
+          "Parturition and Lactation"
+        ]
+      },
+      {
+        "name": "Reproductive Health",
+        "topics": [
+          "Reproductive Health",
+          "Population Stabilisation and Birth Control",
+          "Medical Termination of Pregnancy",
+          "Sexually Transmitted Diseases",
+          "Infertility"
+        ]
+      },
+      {
+        "name": "Principles of Inheritance and Variation",
+        "topics": [
+          "Mendels Laws of Inheritance",
+          "Inheritance of One Gene",
+          "Inheritance of Two Genes",
+          "Sex Determination",
+          "Mutation",
+          "Genetic Disorders"
+        ]
+      },
+      {
+        "name": "Molecular Basis of Inheritance",
+        "topics": [
+          "The DNA",
+          "The Search for Genetic Material",
+          "RNA World",
+          "Replication",
+          "Transcription",
+          "Genetic Code",
+          "Translation",
+          "Regulation of Gene Expression",
+          "Human Genome Project",
+          "DNA Fingerprinting"
+        ]
+      },
+      {
+        "name": "Evolution",
+        "topics": [
+          "Origin of Life",
+          "Evolution of Life Forms",
+          "What are the Evidences for Evolution?",
+          "What is Adaptive Radiation?",
+          "Biological Evolution",
+          "Mechanism of Evolution",
+          "Hardy-Weinberg Principle",
+          "A Brief Account of Evolution",
+          "Origin and Evolution of Man"
+        ]
+      },
+      {
+        "name": "Human Health and Disease",
+        "topics": [
+          "Common Diseases in Humans",
+          "Immunity",
+          "AIDS",
+          "Cancer",
+          "Drugs and Alcohol Abuse"
+        ]
+      },
+      {
+        "name": "Microbes in Human Welfare",
+        "topics": [
+          "Microbes in Household Products",
+          "Microbes in Industrial Products",
+          "Microbes in Sewage Treatment",
+          "Microbes in Production of Biogas",
+          "Microbes as Biocontrol Agents",
+          "Microbes as Biofertilisers"
+        ]
+      },
+      {
+        "name": "Biotechnology: Principles and Processes",
+        "topics": [
+          "Principles of Biotechnology",
+          "Tools of Recombinant DNA Technology",
+          "Processes of Recombinant DNA Technology"
+        ]
+      },
+      {
+        "name": "Biotechnology and its Applications",
+        "topics": [
+          "Biotechnological Applications in Agriculture",
+          "Biotechnological Applications in Medicine",
+          "Transgenic Animals",
+          "Ethical Issues"
+        ]
+      },
+      {
+        "name": "Organisms and Populations",
+        "topics": [
+          "Organism and Its Environment",
+          "Populations"
+        ]
+      },
+      {
+        "name": "Ecosystem",
+        "topics": [
+          "Ecosystem Structure and Function",
+          "Productivity",
+          "Decomposition",
+          "Energy Flow",
+          "Ecological Pyramids",
+          "Ecological Succession",
+          "Nutrient Cycling"
+        ]
+      },
+      {
+        "name": "Biodiversity and Conservation",
+        "topics": [
+          "Biodiversity",
+          "Biodiversity Conservation"
+        ]
+      }
+    ]
+  }
+]

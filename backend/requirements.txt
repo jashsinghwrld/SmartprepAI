@@ -1,4 +1,6 @@
-flask
+fastapi
+uvicorn
+pydantic
+cachetools
 google-generativeai
 python-dotenv
-gunicorn

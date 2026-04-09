@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/__pycache__/
+frontend/dist/
+*.log
+
+# Environment
+.env
+backend/.env
+.venv/
+env/
+venv/
+
+# Assets & Geminis (Internal)
+.gemini/
+.DS_Store
+Thumbs.db
+
+# Project Specific
+frontend/package-lock.json
+backend/app.py
+frontend/.env
