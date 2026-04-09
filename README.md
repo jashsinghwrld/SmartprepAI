@@ -72,5 +72,11 @@ npm run dev
 
 ---
 
+## 🤖 Built with Intelligence
+
+This project was developed in close collaboration with **Antigravity**, an advanced agentic AI coding assistant. The process involved a unique pair-programming dynamic where the architecture, premium UI design (including the custom "Blood Dragon" canvas interaction), and the data-driven backend were iteratively refined through a dialogue between human creativity and AI execution.
+
+---
+
 *“Success is the sum of small efforts, repeated day in and day out.”*
 Built with passion for the modern student. 🚀
